@@ -1,0 +1,34 @@
+{
+  "name": "GRINDIE — GHOST PROTOCOL",
+  "symbol": "GRINDIE",
+  "description": "Ran Ghost with no public forks. A tradeable GRINDIE achievement card.",
+  "image": "https://raw.githubusercontent.com/Mercy231/grindie-assets/main/ach/3.png",
+  "external_url": "https://grindie.fun",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Achievement"
+    },
+    {
+      "trait_type": "Achievement",
+      "value": "GHOST PROTOCOL"
+    },
+    {
+      "trait_type": "Tradeable",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Season",
+      "value": "01"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Mercy231/grindie-assets/main/ach/3.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

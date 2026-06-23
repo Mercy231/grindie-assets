@@ -1,0 +1,34 @@
+{
+  "name": "GRINDIE — FIRST GRIND",
+  "symbol": "GRINDIE",
+  "description": "Completed your first GRINDIE life. A tradeable GRINDIE achievement card.",
+  "image": "https://raw.githubusercontent.com/Mercy231/grindie-assets/main/ach/0.png",
+  "external_url": "https://grindie.fun",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Achievement"
+    },
+    {
+      "trait_type": "Achievement",
+      "value": "FIRST GRIND"
+    },
+    {
+      "trait_type": "Tradeable",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Season",
+      "value": "01"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Mercy231/grindie-assets/main/ach/0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
