@@ -1,0 +1,38 @@
+{
+  "name": "GRINDIE — REKT FOREVER",
+  "symbol": "GRINDIE",
+  "description": "Zero stack, zero rep, zero hope. The flatline ending — soulbound proof you went down and stayed down. A soulbound record of one ARENA run — minted to your wallet, non-transferable, forever.",
+  "image": "https://raw.githubusercontent.com/Mercy231/grindie-assets/main/0.png",
+  "external_url": "https://grindie.fun",
+  "attributes": [
+    {
+      "trait_type": "Ending",
+      "value": "REKT FOREVER"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "7%"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "ARENA"
+    },
+    {
+      "trait_type": "Season",
+      "value": "01"
+    },
+    {
+      "trait_type": "Soulbound",
+      "value": "Yes"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Mercy231/grindie-assets/main/0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
